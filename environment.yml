@@ -1,0 +1,8 @@
+name: afe2019-predictive-fire-planning
+dependencies:
+  - python>=3.6
+  - pip
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
